@@ -13,7 +13,7 @@ streamlit>=1.28.0
 
 # Data Handling and Database
 pandas>=1.3.0
-sqlite3
+# sqlite3 is built-in with Python
 
 # Configuration and Utilities
 pyyaml>=6.0
